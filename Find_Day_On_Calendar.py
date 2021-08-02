@@ -14,4 +14,4 @@ day = calendar.weekday(year,month,day)
 
 weekday = calendar.day_name[day]
 
-print("Your Day is : ",weekday)
+print("Your Day is : ","'",weekday,"':",day)
